@@ -9,4 +9,4 @@ def encode (message):
     return  encoded_message
 
 encodeD_message = encode ("AAAAABBBBBB")
-print (encoded_message)
+pri
